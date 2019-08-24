@@ -1,8 +1,4 @@
 theme: jekyll-theme-minimal
-navbar:
-  title: "My Website"
-  left:
-    - text: "Home"
-      href: 'https://joshua-meyers.github.io/'
-    - text: "About"
-      href: 'https://joshua-meyers.github.io/about.html'
+header_pages:
+  - 'https://joshua-meyers.github.io/'
+  - 'https://joshua-meyers.github.io/about.html'
