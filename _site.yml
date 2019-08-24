@@ -1,0 +1,13 @@
+name: "Josh Meyers"
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: pygments
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: 'https://joshua-meyers.github.io/index.html'
+    - text: "About"
+      href: 'https://joshua-meyers.github.io/about.html'
